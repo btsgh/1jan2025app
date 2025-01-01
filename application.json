@@ -24,6 +24,14 @@
     {
       "id": "20MB",
       "isDefault": false
+    },
+    {
+      "id": "Large JS Object",
+      "isDefault": false
+    },
+    {
+      "id": "cURL",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
